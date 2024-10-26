@@ -53,27 +53,25 @@ Make sure you have the following installed on your machine:
         ```bash
        sqlite3 weather.db < sql.txt
         ```
-
-  ## API Key
-  
-  ### Set up the API Key
-  1. Sign Up for the Weather API Service
+  4. Set up the API_KEY.
+   
+        ##### Sign Up for the Weather API Service
     
-   -> Visit the OpenWeatherMap website: https://openweathermap.org.
+        -> Visit the OpenWeatherMap website: https://openweathermap.org.
        
-   -> Click on Sign Up or Sign In if you already have an account.
+        -> Click on Sign Up or Sign In if you already have an account.
      
-   -> Verify your email to activate the account.
+        -> Verify your email to activate the account.
 
-  2. Get the API Key
+        ##### Get the API Key
     
-   -> After logging in, go to API keys under your account section.
+        -> After logging in, go to API keys under your account section.
    
-   -> You’ll see a default key named default or My API Key. You can use this or generate a new one by clicking + Generate.
+        -> You’ll see a default key named default or My API Key. You can use this or generate a new one by clicking + Generate.
    
-   -> Copy the API key for use in your project.   
+        -> Copy the API key for use in your project.   
 
-      
+        -> And replace with the API_KEY in the configuration app.py file.
 
         
   ## ✨  Usage
